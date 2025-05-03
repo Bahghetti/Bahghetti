@@ -5,6 +5,7 @@
 - 📫 How to reach me ... alishaceder@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... my dream is to have a leonberger named Bahghetti
+- 🤔 I'm 15 and have almost no idea what I'm doing 
 
 <!---
 Bahghetti/Bahghetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
